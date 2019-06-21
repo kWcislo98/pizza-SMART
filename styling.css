@@ -1,0 +1,249 @@
+
+header{
+background-color: #e6ffe6;
+
+}
+
+body {
+  background-image: url("imgs/tlo.jpg");
+  background-repeat: no-repeat;
+  background-color: #cccccc;
+}
+ul {
+  list-style-type: none;
+
+  overflow: hidden;
+  background-color: #e6ffe6;
+}
+.lcl{
+  text-align: center;
+  list-style-type: none;
+  overflow: hidden;
+  background-color:rgb(218, 224, 217,0.1);
+  margin-left: 25;
+  padding: 25;
+
+}
+.lcls{
+  float:none;
+  display: block;
+}
+
+li {
+  float:left;
+
+  }
+  .formz{
+
+    background-color: #4CAF50;
+    border-radius: 30px;
+    width: 70%;
+    color: white;
+    padding: 11px 15px;
+  
+  }
+  .formz:hover{
+    background-color: #4bf442;
+  }
+.a{
+  display: block;
+  color: black;
+  font-size: 20px;
+  text-align: center;
+
+  padding: 18px 30px;
+  text-decoration: none;
+}
+.b{
+  background-color: #4CAF50;
+  border-radius: 30px;
+  display: block;
+  color: white;
+  text-align: right;
+
+  padding: 11px 15px;
+  text-decoration: none;
+}
+
+.b:hover {
+  border-radius: 30px;
+  color:white;
+  background-color: green;
+}
+li a:hover {
+  border-radius: 5px;
+  color:white;
+  background-color: green;
+}
+.index{
+  text-align:center;
+  width: 100%;
+  background-color: rgb(242, 242, 242,0.6);
+  font-size:40px;
+  border-radius:30px;
+
+}
+.indexp{
+  text-align: center;
+  color:black;
+
+}
+.headerbut {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 11px 16px;
+  border-radius: 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.headerbut:hover {
+  background-color:green; /* Green */
+  color: white;
+}
+.containerA{
+text-align:center;
+display:inline-block;
+width:20%;
+  position: center;
+  margin: 20px;
+  padding: 16px;
+  background-color:rgb(182, 255, 178,0.6);
+  border-radius: 20px;
+}
+.containerR{
+text-align:center;
+display:inline-block;
+width:50%;
+  position: center;
+  margin: 20px;
+  padding: 16px;
+  background-color:rgb(182, 255, 178,0.6);
+  border-radius: 20px;
+}
+.containerP{
+text-align:center;
+display:inline-block;
+width:70%;
+  position: center;
+  margin: 20px;
+  padding: 16px;
+  background-color:rgb(182, 255, 178,0.6);
+  border-radius: 20px;
+}
+.container{
+text-align:center;
+display:inline-block;
+width:100%;
+  position: center;
+  margin: 20px;
+  padding: 16px;
+  background-color:rgb(182, 255, 178,0.6);
+  border-radius: 20px;
+}
+.containerO{
+text-align:center;
+display:inline-block;
+  position: center;
+  margin: 20px;
+  padding: 16px;
+
+  border-radius: 20px;
+}
+
+.error{
+  color:red;
+  font-size:40px;
+  text-align: center;
+  background-color: grey;
+}
+
+.input{
+  width: 80%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  border: none;
+  background: #f1f1f1;
+
+}
+.btnR {
+  background-color: #4CAF50;
+  border-radius: 12px;
+  color: white;
+  margin-top:5px;
+  padding: 11px 14px;
+  border: none;
+  cursor: pointer;
+  width: 30%;
+  opacity: 1;
+}
+.formS{
+  font-size:25px;
+  display: block;
+  text-align: center;
+  background-color:rgb(218, 224, 217);
+  border-radius: 20px;
+}
+
+.form{
+  font-size:25px;
+  display: block;
+  text-align: center;
+  background-color:rgb(218, 224, 217,0.6);
+  border-radius: 20px;
+}
+.btnA {
+  background-color: #4CAF50;
+  border-radius: 12px;
+  color: white;
+  margin-top:5px;
+  padding: 11px 14px;
+  border: none;
+  cursor: pointer;
+  width: 30%;
+  opacity: 1;
+}
+.btnP {
+  background-color: #4CAF50;
+  border-radius: 12px;
+  color: white;
+  margin-top:5px;
+  padding: 11px 14px;
+  border: none;
+  cursor: pointer;
+  width: 30%;
+  opacity: 1;
+}
+.btn {
+  background-color: #4CAF50;
+  border-radius: 12px;
+  color: white;
+  margin-top:5px;
+  padding: 11px 14px;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 1;
+}
+.btn:hover {
+  color:black;
+  background-color: #caffc1;
+  opacity: 1;
+}
+.btnP:hover {
+  color:black;
+  background-color: #caffc1;
+  opacity: 1;
+}
+.btnA:hover {
+  color:black;
+  background-color: #caffc1;
+  opacity: 1;
+}
+.btnR:hover {
+  color:black;
+  background-color: #caffc1;
+  opacity: 1;
+}
